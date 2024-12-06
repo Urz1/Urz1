@@ -15,25 +15,6 @@ I enjoy problem-solving and am an ML enthusiast.
 - 📫 How to reach me: [halisadam391@gmail.com](mailto:halisadam391@gmail.com)
 - 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/15AEk_YXjv767-z27MSVj808jtGP5pTqW/view?usp=sharing)
 
----
-
-
----
-
-## Languages and Tools
-JavaScript
-Python
-Java
-C++
-HTML/CSS
-SQL
-TypeScript
-React.js
-Node.js
-MongoDB
-
----
-
 ## Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=urz1&show_icons=true&locale=en&layout=compact)
