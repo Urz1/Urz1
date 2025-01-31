@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sadam Husen Ali 👋 🚀 Software Developer | 💡 Problem Solver | 🌍 AI and ML Enthusiast</h1>
-<h3 align="center">I am a motivated software developer with over 2 years of experience, crafting efficient and scalable solutions. With a strong foundation in algorithms, data structures, and web technologies, I specialize in **React.js, JavaScript, Python, and geospatial tools. I am passionate about AI and Machine learning and constantly exploring innovative solutions in these areas.</h3>
+<p align="center">I am a motivated software developer with over 2 years of experience, crafting efficient and scalable solutions. With a strong foundation in algorithms, data structures, and web technologies, I specialize in **React.js, JavaScript, Python, and geospatial tools. I am passionate about AI and Machine learning and constantly exploring innovative solutions in these areas.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urz1&label=Profile%20views&color=0e75b6&style=flat" alt="urz1" /> </p>
 
