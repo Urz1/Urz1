@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Custom ChatBot Builder](https://github.com/Urz1/Awesome_Chat)
 
-- 🌱 I’m currently learning **Data Science And Machine Learning At <a href="https://emergingtalent.mit.edu/">MIT Emerging Talent<a/> ** 
+- 🌱 I’m currently learning **Data Science And Machine Learning At <a href="https://emergingtalent.mit.edu/">MIT Emerging Talent<a/>** 
 
 - 📫 How to reach me **halisadam391@gmail.com**
 
