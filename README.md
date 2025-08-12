@@ -1,15 +1,51 @@
-<h1 align="center">Hi there, I'm Sadam Husen Ali 👋 🚀 Software Developer | 💡 Problem Solver | 🌍 AI and ML Enthusiast</h1>
-<p align="center">I am a motivated software developer with over 2 years of experience, crafting efficient and scalable solutions. With a strong foundation in algorithms, data structures, and web technologies, I specialize in Python,React.js, JavaScript, and Node.Js. I am passionate about AI and Machine learning and constantly exploring innovative solutions in these areas.</p>
+<h1 align="center">Hi there, I'm Sadam Husen Ali 👋</h1>
+<h3 align="center">🚀 AI Researcher | Software Engineer | Lifelong Learner 🧠</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=urz1&label=Profile%20views&color=0e75b6&style=flat" alt="urz1" /> </p>
+<p align="center">
+  I am a passionate engineer and researcher driven by the challenge of solving complex, open-ended problems at the intersection of software and machine learning. With a strong foundation in algorithms and systems from my time as a competitive programmer, I now focus on building and analyzing intelligent systems. My recent work involves exploring the nuances of human-AI interaction, particularly understanding the gap between user expectations and the capabilities of large language models.
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urz1" alt="urz1" /></a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadam-husen-16s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:halisadam391@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Sad123/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</p>
 
-- 🔭 I’m currently working on [Custom ChatBot Builder](https://github.com/Urz1/Awesome_Chat)
+---
 
-- 🌱 I’m currently learning **Data Science And Machine Learning At <a href="https://emergingtalent.mit.edu/">MIT Emerging Talent<a/>** 
+### 📌 Pinned Project Highlight
 
-- 📫 How to reach me **halisadam391@gmail.com**
+My most recent research project, **"The Conversational AI Tax,"** is a deep dive into the unique failure modes of mental health chatbots.
+
+-   🧠 **Analyzed 30,000+ user reviews** to build a data-driven "taxonomy of failure."
+-   🤖 **Leveraged BERTopic and RoBERTa** to move beyond keywords and understand the semantic meaning and emotional intensity of user complaints.
+-   📊 **Proved a key insight:** Failures in AI performance (like memory and personality) are significantly more emotionally damaging to users than high prices.
+-   📈 **Discovered a "smoking gun"** linking a real-world product update to a massive, 300% spike in specific AI-related complaints.
+
+<p align="center">
+  <a href="[https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-20-repo]">
+  </a>
+</p>
+
+---
+
+### 🌱 What I'm Currently Focused On
+
+-   **Research & Analysis:** Completing my Certificate in Computer and Data Science at **MIT's Emerging Talent Program**, where I'm how to Interact with real-world datasets and engineer an Impactfull solutions.
+-   **Core Engineering:** Continuously honing my skills in algorithms and data structures through competitive programming on Leetcode and Codeforces.
+-   **Exploring:** Investigating the latest developments in model fine-tuning, retrieval-augmented generation (RAG), and AI safety.
+
+### 🛠️ My Tech Stack & Tools
+
+-   **Languages:** Python, JavaScript/TypeScript, Java, C++
+-   **AI / ML:** PyTorch, Scikit-learn, Transformers, LangChain, BERTopic
+-   **Web & Backend:** Node.js, React.js, Express.js, SQL/NoSQL
+-   **Tools:** Git, Docker, Google Cloud, Jupyter Notebooks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=urz1&show_icons=true&theme=dark&bg_color=0D1117&border_color=30A3DC" alt="Sadam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urz1&layout=compact&theme=dark&bg_color=0D1117&border_color=30A3DC" alt="Top Languages" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +63,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urz1&show_icons=true&locale=en" alt="urz1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urz1&" alt="urz1" /></p>
+
