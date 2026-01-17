@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0077B5&height=200&section=header&text=Sadam%20Husen%20Ali&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sadam%20Husen%20Ali&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20&descAlignY=55&descSize=25" width="100%"/>
 </h1>
-
 <p align="center">
   <b>ML Engineer • Software Engineer</b><br>
   <i>I Just Try</i>
@@ -113,3 +112,4 @@ I am an engineer dedicated to solving open-ended problems where software systems
 <p align="center">
   <i>"Always a student of the craft."</i>
 </p>
+
