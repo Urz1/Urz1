@@ -71,36 +71,33 @@ I am an engineer dedicated to solving open-ended problems where software systems
 
 ---
 
-### 📊 GitHub Momentum
-<!-- STATS SECTION -->
-<!-- STATS & DYNAMICS SECTION -->
+<!-- 📊 GitHub Momentum -->
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <!-- Main Stats Card (Using a high-availability mirror) -->
+        <!-- Main Stats Card -->
         <a href="https://github.com/urz1">
-          <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=urz1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"
+          <img src="https://github-readme-stats-api-seven.vercel.app/api?username=urz1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"
                alt="GitHub Stats" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
-        <!-- Top Languages Card (Using a stable community mirror) -->
+        <!-- Top Languages Card -->
         <a href="https://github.com/urz1">
-          <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=urz1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+          <img src="https://github-readme-stats-api-seven.vercel.app/api/top-langs/?username=urz1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
                alt="Top Languages" width="100%" />
         </a>
       </td>
     </tr>
   </table>
 
-  <!-- Streak Stats (Currently online and working) -->
+  <!-- Streak Stats -->
   <a href="https://github.com/urz1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=urz1&theme=tokyonight&hide_border=true&background=0D1117"
+    <img src="https://streak-stats.demolab.com/?user=urz1&theme=tokyonight&hide_border=true&background=0D1117"
          alt="GitHub Streak" width="95%" />
   </a>
 </div>
-
 <br />
 
 <!-- PROFESSIONAL STATUS BADGES -->
@@ -112,4 +109,5 @@ I am an engineer dedicated to solving open-ended problems where software systems
 <p align="center">
   <i>"Always a student of the craft."</i>
 </p>
+
 
