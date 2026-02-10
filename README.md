@@ -73,34 +73,14 @@ I am an engineer dedicated to solving open-ended problems where software systems
 
 <!-- 📊 GitHub Momentum -->
 <div align="center">
- <table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/urz1">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=urz1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"
-          alt="GitHub Stats"
-          width="100%"
-        />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/urz1">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=urz1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-          alt="Top Languages"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
- </table>
+  <!-- GitHub Stats & Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=urz1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urz1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="300" />
+  
+  <br/>
 
   <!-- Streak Stats -->
-  <a href="https://github.com/urz1">
-  <img src="https://streak-stats.demolab.com/?user=urz1&theme=tokyonight&hide_border=true&background=0D1117"
-       alt="GitHub Streak" width="95%" />
-</a>
+  <img src="https://streak-stats.demolab.com/?user=urz1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="710" />
 </div>
 <br />
 
@@ -113,6 +93,7 @@ I am an engineer dedicated to solving open-ended problems where software systems
 <p align="center">
   <i>"Always a student of the craft."</i>
 </p>
+
 
 
 
